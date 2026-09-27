@@ -6,6 +6,10 @@ A Python-based grocery budget management application developed using **Object-Or
 
 The application helps users manage grocery items, track expenses, and stay within their monthly budget.
 
+## Live Demo
+
+🔗 [SMART GROCERY BUDGET PLANNER – LIVE APP](https://smart-grocery-budget-planner-pw6rw3aose2ukuw5hsxv6r.streamlit.app/)
+
 ## Key Features
 
 * Set and manage monthly grocery budget
