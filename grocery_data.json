@@ -1,35 +1,4 @@
 {
     "budget": 1500,
-    "items": [
-        {
-            "name": "Rice",
-            "category": "Food",
-            "price": 1000,
-            "priority": "Essential"
-        },
-        {
-            "name": "Wheat",
-            "category": "Food",
-            "price": 200,
-            "priority": "Essential"
-        },
-        {
-            "name": "Eye liner",
-            "category": "Personal Care",
-            "price": 150,
-            "priority": "Optional"
-        },
-        {
-            "name": "chocolate",
-            "category": "Snacks",
-            "price": 250,
-            "priority": "Optional"
-        },
-        {
-            "name": "Slippers",
-            "category": "Personal Care",
-            "price": 500,
-            "priority": "Optional"
-        }
-    ]
+    "items": []
 }
